@@ -1484,8 +1484,8 @@ const VideoState = ({ children }) => {
     {
 
       const Channel_GurfaTahfeez = [{
-        username: "he7qNxWD2G9Oijy0azWvKWwSpOLvnd7a_vI0fz7kgSo4OijJHOOzEivKPl2ZL7XXAAAAAGEwWopndXJmYXRhaGZlZXo=",
-        credential: "c2b05bba-0baa-11ec-b8f2-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com",
 
@@ -1497,8 +1497,8 @@ const VideoState = ({ children }) => {
     else if (branchId == 10) // Tahfeez_Surat
     {
       const Channel_TahfeezSurat = [{
-        username: "9ejVTwkM6MX3q-1q8VNTotkBshK0k-SJ3OYbkvw6R28z2572fh5dHhqRpMoEjQ6CAAAAAGHta-RndXJmYXRhaGZlZXo=",
-        credential: "36f8ac1c-7c5c-11ec-be28-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com",
         ]
@@ -1510,8 +1510,8 @@ const VideoState = ({ children }) => {
     else if (branchId == 25) //Elearning_Surat_Talim al Quran
     {
       const Channel_ElearningSuratTalimalQuran = [{
-        username: "GeziVwEIUFVBhS61dYBQ41DyWJzEql-Ns5sb6cda_5c-ilpFC6Mw1ZqZXtv8N9O_AAAAAGHtaytndXJmYXRhaGZlZXo=",
-        credential: "c91a7504-7c5b-11ec-9dad-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com",
         ]
@@ -1522,8 +1522,8 @@ const VideoState = ({ children }) => {
     else if (branchId == 236) //Tahfeez_Marol
     {
       const Channel_TahfeezMarol = [{
-        username: "F-5bz0ASqKJCpnCyNCWHjbiaylDsGEp82loOk3HSLfC6b3mo4oFfkgu0Y2eiomeFAAAAAGHta5BndXJmYXRhaGZlZXo=",
-        credential: "0537078c-7c5c-11ec-a6e6-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com",
         ]
@@ -1533,8 +1533,8 @@ const VideoState = ({ children }) => {
     }
     else if (branchId == 213) {
       const Channel_ElearningNairobi = [{
-        username: "0vwMVOgbCWy29DzOGT6f7jAte1P9gjw37ulHdRkkmLiC_wPqG8qKfw7j4uYO-gMVAAAAAGHuWkVndXJmYXRhaGZlZXo=",
-        credential: "4cc7df0c-7cea-11ec-a2d3-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com",
         ]
@@ -1545,8 +1545,8 @@ const VideoState = ({ children }) => {
     }
     else if (branchId == 20) {
       const Channel_DQRN = [{
-        username: "0ywf1U-aVdiCtWPgeyzZajd8slfVkHIMKWW-qChCXZYwWn_m0uzJjrHuA0c1etJ8AAAAAGHuruFndXJmYXRhaGZlZXo=",
-        credential: "bb0b2794-7d1c-11ec-8303-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com",
         ]
@@ -1564,8 +1564,8 @@ const VideoState = ({ children }) => {
       const Channel_GurfaTahfeez = [{
         urls: ["stun:bn-turn1.xirsys.com"]
       }, {
-        username: "he7qNxWD2G9Oijy0azWvKWwSpOLvnd7a_vI0fz7kgSo4OijJHOOzEivKPl2ZL7XXAAAAAGEwWopndXJmYXRhaGZlZXo=",
-        credential: "c2b05bba-0baa-11ec-b8f2-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com:80?transport=udp",
           "turn:bn-turn1.xirsys.com:3478?transport=udp",
@@ -1584,8 +1584,8 @@ const VideoState = ({ children }) => {
       const Channel_TahfeezSurat = [{
         urls: ["stun:bn-turn1.xirsys.com"]
       }, {
-        username: "9ejVTwkM6MX3q-1q8VNTotkBshK0k-SJ3OYbkvw6R28z2572fh5dHhqRpMoEjQ6CAAAAAGHta-RndXJmYXRhaGZlZXo=",
-        credential: "36f8ac1c-7c5c-11ec-be28-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com:80?transport=udp",
           "turn:bn-turn1.xirsys.com:3478?transport=udp",
@@ -1604,8 +1604,8 @@ const VideoState = ({ children }) => {
       const Channel_ElearningSuratTalimalQuran = [{
         urls: ["stun:bn-turn1.xirsys.com"]
       }, {
-        username: "GeziVwEIUFVBhS61dYBQ41DyWJzEql-Ns5sb6cda_5c-ilpFC6Mw1ZqZXtv8N9O_AAAAAGHtaytndXJmYXRhaGZlZXo=",
-        credential: "c91a7504-7c5b-11ec-9dad-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com:80?transport=udp",
           "turn:bn-turn1.xirsys.com:3478?transport=udp",
@@ -1623,8 +1623,8 @@ const VideoState = ({ children }) => {
       const Channel_TahfeezMarol = [{
         urls: ["stun:bn-turn1.xirsys.com"]
       }, {
-        username: "F-5bz0ASqKJCpnCyNCWHjbiaylDsGEp82loOk3HSLfC6b3mo4oFfkgu0Y2eiomeFAAAAAGHta5BndXJmYXRhaGZlZXo=",
-        credential: "0537078c-7c5c-11ec-a6e6-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com:80?transport=udp",
           "turn:bn-turn1.xirsys.com:3478?transport=udp",
@@ -1642,8 +1642,8 @@ const VideoState = ({ children }) => {
       const Channel_ElearningNairobi = [{
         urls: ["stun:bn-turn1.xirsys.com"]
       }, {
-        username: "0vwMVOgbCWy29DzOGT6f7jAte1P9gjw37ulHdRkkmLiC_wPqG8qKfw7j4uYO-gMVAAAAAGHuWkVndXJmYXRhaGZlZXo=",
-        credential: "4cc7df0c-7cea-11ec-a2d3-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com:80?transport=udp",
           "turn:bn-turn1.xirsys.com:3478?transport=udp",
@@ -1662,8 +1662,8 @@ const VideoState = ({ children }) => {
       const Channel_DQRN = [{
         urls: ["stun:bn-turn1.xirsys.com"]
       }, {
-        username: "0ywf1U-aVdiCtWPgeyzZajd8slfVkHIMKWW-qChCXZYwWn_m0uzJjrHuA0c1etJ8AAAAAGHuruFndXJmYXRhaGZlZXo=",
-        credential: "bb0b2794-7d1c-11ec-8303-0242ac140004",
+        username: "",
+        credential: "",
         urls: [
           "turn:bn-turn1.xirsys.com:80?transport=udp",
           "turn:bn-turn1.xirsys.com:3478?transport=udp",
