@@ -984,8 +984,8 @@ const VideoState = ({ children }) => {
     const iceVariable_Rawzat = [{
       urls: ["stun:bn-turn1.xirsys.com"]
     }, {
-      username: "9-NWwoBTnMjClayUgDR4B_UkzSFyv2QCwohYGEXtWL7D4jtjxq1G8twnHw-utc3-AAAAAGHln1FndXJmYXRhaGZlZXo=",
-      credential: "29e2c698-77b6-11ec-85d0-0242ac140004",
+      username: "",
+      credential: "",
       urls: [
         "turn:bn-turn1.xirsys.com:80?transport=udp",
         "turn:bn-turn1.xirsys.com:3478?transport=udp",
@@ -999,8 +999,8 @@ const VideoState = ({ children }) => {
     const iceVariable_GurfaTahfeez = [{
       urls: ["stun:bn-turn1.xirsys.com"]
     }, {
-      username: "he7qNxWD2G9Oijy0azWvKWwSpOLvnd7a_vI0fz7kgSo4OijJHOOzEivKPl2ZL7XXAAAAAGEwWopndXJmYXRhaGZlZXo=",
-      credential: "c2b05bba-0baa-11ec-b8f2-0242ac140004",
+      username: "",
+      credential: "",
       urls: [
         "turn:bn-turn1.xirsys.com:80?transport=udp",
         "turn:bn-turn1.xirsys.com:3478?transport=udp",
